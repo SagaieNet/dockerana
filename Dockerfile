@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM ubuntu:trusty
 MAINTAINER George Lewis <schvin@schvin.net>
 
 RUN apt-get update
